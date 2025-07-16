@@ -13,8 +13,6 @@
 ## 📋 **Assignment Requirements Fulfilled**
 
 ### 🔍 **Assignment A - Basic Search Features**
-
-<details>
 <summary><strong>📊 Core Features Implementation Status</strong></summary>
 
 | **Feature** | **Status** | **Implementation Details** |
@@ -28,13 +26,10 @@
 | 📊 **Sorting** | ✅ **COMPLETE** | Sort by upcoming, priceAsc, priceDesc with custom logic |
 | 📄 **Pagination** | ✅ **COMPLETE** | Configurable page size and navigation with bounds checking |
 
-</details>
-
 ---
 
 ### 🚀 **Assignment B - Advanced Features**
 
-<details>
 <summary><strong>🔧 Advanced Features Implementation Status</strong></summary>
 
 | **Feature** | **Status** | **Implementation Details** |
@@ -46,7 +41,6 @@
 | 🏥 **Health Check** | ✅ **COMPLETE** | Application and Elasticsearch health monitoring with status indicators |
 | 📝 **Logging** | ✅ **COMPLETE** | Structured logging with file rotation and configurable levels |
 
-</details>
 
 ---
 
