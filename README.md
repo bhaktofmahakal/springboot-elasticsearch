@@ -16,6 +16,8 @@
 
 A **production-ready** Spring Boot application that provides powerful course search functionality with Elasticsearch integration. Features advanced search capabilities including full-text search, multi-criteria filtering, intelligent autocomplete, and fuzzy search for enhanced user experience.
 
+> 📊 **For detailed assignment completion status and implementation details, please check [ASSIGNMENT_REPORT.md](./ASSIGNMENT_REPORT.md)**
+
 ---
 
 ## ✨ **Key Features**
@@ -76,6 +78,8 @@ A **production-ready** Spring Boot application that provides powerful course sea
 - 🐳 **Docker and Docker Compose**
 
 ## 🚀 **Getting Started**
+
+> 💡 **Quick Tip:** For complete assignment evaluation guide and testing scenarios, see [ASSIGNMENT_REPORT.md](./ASSIGNMENT_REPORT.md)
 
 ### **Step 1: Start Elasticsearch**
 
@@ -620,16 +624,35 @@ logging:
 
 This project is created for educational purposes as part of a technical assignment.
 
+</div>
+
+---
+
+## 📋 **Assignment Information**
+
+<div align="center">
+
+**📊 For comprehensive assignment completion report, implementation details, and evaluation metrics:**
+
+### **👉 [View ASSIGNMENT_REPORT.md](./ASSIGNMENT_REPORT.md)**
+
+*This report contains detailed information about:*
+- ✅ **Assignment A & B completion status**
+- 🏗️ **Technical implementation details**
+- 🧪 **Testing scenarios and examples**
+- 📊 **Quality assurance metrics**
+- 🎯 **Success criteria fulfillment**
+
+</div>
+
 ---
 
 <div align="center">
 
-**🌟 Made with ❤️ using Spring Boot & Elasticsearch**
+**� Made with ❤️ using Spring Boot & Elasticsearch**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-</div>
 
 </div>
