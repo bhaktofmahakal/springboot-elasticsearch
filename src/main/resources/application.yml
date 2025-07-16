@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: course-search
+  elasticsearch:
+    uris: http://localhost:9200
+    socket-timeout: 10s
+    connection-timeout: 5s
+
+server:
+  port: 8080
+
+logging:
+  level:
+    org.springframework.data.elasticsearch: DEBUG
+    org.elasticsearch: DEBUG
+    com.example.coursesearch: DEBUG
